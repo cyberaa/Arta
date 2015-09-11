@@ -1,0 +1,11 @@
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form2.resources
+C:\Users\Joao\Desktop\workspace\Apps\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form3.resources
